@@ -1,0 +1,4 @@
+测试 模糊 测试成功
+test 精确 test
+logo 精确 [tcq:img,info=logo.jpg]
+今天我生日 模糊 生日快乐！！
